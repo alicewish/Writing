@@ -80,4 +80,4 @@ https://github.com/arauchfuss/Simple-Comic
  ![2016-03-16_011256](/Users/alicewish/Pictures/FastStone/2016-03-16_011256.jpg)
 
 
-##其实我就是想说RMBP15‘看漫画倍儿棒！（不过还比不上iPad Pro+ComicGlass，那个下次再说。）
+###其实我就是想说RMBP15‘看漫画倍儿棒！（不过还比不上iPad Pro+ComicGlass，那个下次再说。）
