@@ -10,7 +10,7 @@
 
 ###App图标
 
- ![屏幕截图 2016-03-16 01.09.29](/Users/alicewish/Dropbox/屏幕截图/屏幕截图 2016-03-16 01.09.29.png)
+![屏幕截图 2016-03-16 01.09.29](/Users/alicewish/Dropbox/屏幕截图/屏幕截图 2016-03-16 01.09.29.png)
 
 ###浏览效果
 
@@ -30,7 +30,8 @@
 
 ![The Flash (2011-) - Move Forward v1-158](/Users/alicewish/Pictures/The Flash (2011-) - Move Forward v1-158.jpg)
 
-`闪电侠第8话缩略细稿`![The Flash (2011-) - Move Forward v1-159](/Users/alicewish/Pictures/The Flash (2011-) - Move Forward v1-159.jpg)
+`闪电侠第8话缩略细稿`
+![The Flash (2011-) - Move Forward v1-159](/Users/alicewish/Pictures/The Flash (2011-) - Move Forward v1-159.jpg)
 
 
 
@@ -62,7 +63,8 @@
 
 ##QuickView内页预览
 
-这方面OS X真的比Windows爽很多，只要选中文件按一下空格： ![Snip20160316_20](/Users/alicewish/Pictures/Snip20160316_20.png)
+这方面OS X真的比Windows爽很多，只要选中文件按一下空格： 
+![Snip20160316_20](/Users/alicewish/Pictures/Snip20160316_20.png)
 
 ##Simple Comic下载
 

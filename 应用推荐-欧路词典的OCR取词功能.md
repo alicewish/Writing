@@ -2,7 +2,7 @@
 
 ##在Mac App Store购买
 
-## ![Snip20160315_9](/Users/alicewish/Pictures/Snip20160315_9.png)
+![Snip20160315_9](/Users/alicewish/Pictures/Snip20160315_9.png)
 
 ##进行配置 
 
