@@ -1,3 +1,5 @@
+# ScreenFlow 5.0.6 汉化v0.6说明
+
 第一次汉化软件，错误肯定很多，还有不少未能汉化的地方，报错请在微博私信@墨问非名(http://weibo.com/Alicewish)
 
 ScreenFlow是Mac平台上的专业录屏软件。
